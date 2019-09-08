@@ -1,1 +1,20 @@
- 
+body {
+            margin-left: 20%;
+            background-color:#D0104C;
+            font-family:"spaceMono", "Helvetica", sans-serif;
+        }
+        
+        div, 
+        ul {
+            box-shadow: 100px 160px 160px #000000;
+            box-decoration-break: clone
+        }
+        
+   
+        p {
+            font-size: 10em;
+            text-align: left;
+        }
+
+
+
